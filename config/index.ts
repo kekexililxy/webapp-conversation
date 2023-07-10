@@ -3,7 +3,7 @@ export const APP_ID = '55d17abc-08b5-441b-999a-e50817637ac4'
 export const API_KEY = 'app-teInYbklxbAW4t94kiuoreL3'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: '建工检测AI',
   description: '',
   copyright: '',
   privacy_policy: '',
